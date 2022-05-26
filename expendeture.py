@@ -13,6 +13,7 @@ while exp!=0:
         min_exp=exp
 
 print(list)
-print(total)
-print(max_exp)
-print(min_exp)
+print("Total  Item available in the expendeture is ", len(list))
+print("your Total Expendeture is",total)
+print('You spend maximum_is', max_exp)
+print('your minimum expendeture is ',min_exp)
