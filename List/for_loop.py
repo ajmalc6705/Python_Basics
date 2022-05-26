@@ -11,7 +11,7 @@ for y in range(len(files)):
 
 # Remove the .mp4 in files
 for x in files:
-    print(x)
+    print(x)e
     name = x[0:-4]
     print(name)
 

@@ -2,7 +2,7 @@
 num = int(input("Enter a Number :"))
 def square(num):
     return num * num
-
+e
 
 print("Square of the Entered number is ", square(num))
 

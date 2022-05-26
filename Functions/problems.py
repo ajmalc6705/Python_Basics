@@ -20,7 +20,7 @@ def f():
 print(x)
 print(f())
 
-y =1
+y =1e
 def f():
     y = 2
     return y

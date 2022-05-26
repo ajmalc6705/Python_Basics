@@ -54,3 +54,5 @@ print(space.strip())
 u = "Convert the value of txt to upper case."
 print(u.upper()) # OP : CONVERT THE VALUE OF TXT TO UPPER CASE.
 print(u.lower()) # OP :convert the value of txt to upper case.
+
+# Dictionary
